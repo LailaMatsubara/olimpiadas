@@ -1,0 +1,41 @@
+.carousel-inner{
+    width: 100%;
+    height: 600px;
+    margin: auto;
+}
+.sidemenu{
+    margin-top: 30px;
+}
+.meionav {
+    padding-top: 10px;
+    font-family: cursive;
+    font-size: large;
+    justify-content: space-between;
+}
+.maintitle {
+    text-align: center;
+}
+.graything{
+    background-color: rgba(0, 0, 0, 0.137);
+    width: 200px;
+    height: 1000px;
+    margin-left: 75px;
+    position: absolute;
+}
+.sidemenuimgs{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+main{
+    width: 67%;
+}
+.sidemenuimg{
+    width: 190px;
+    height: 120px;
+}
+.edições {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}

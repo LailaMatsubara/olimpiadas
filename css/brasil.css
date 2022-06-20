@@ -1,0 +1,27 @@
+.maincontainer{
+    display: flex;
+    margin-left: 16%;
+    margin-right: 15%;
+    margin-top: 90px;
+    text-align: justify;
+}
+.col.um {
+    margin-left: 100px;
+}
+.col.dois {
+    margin-left: -130px;
+    margin-right: 100px;
+}
+.rio1 {
+    margin-right: 130px;
+    text-align: justify;
+    text-indent: 25px;
+}
+.riologo {
+    width: 20%;
+    margin-left: 150px;
+}
+.tabelario2016 {
+    margin-left: 100px;
+    margin-right: 100px;
+}

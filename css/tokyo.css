@@ -1,0 +1,37 @@
+
+.imgintro{
+    width: 1000px;
+    height: 490px;
+}
+.divimgintro{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.graything{
+    background-color: rgba(0, 0, 0, 0.137);
+    width: 200px;
+    height: 1500px;
+    margin-left: 75px;
+    position: absolute;
+}
+.sidemenuimgs{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+main{
+    width: 67%;
+}
+.sidemenuimg{
+    width: 190px;
+    height: 120px;
+}
+.sidemenu{
+    margin-top: 30px;
+}
+.maintittle{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
